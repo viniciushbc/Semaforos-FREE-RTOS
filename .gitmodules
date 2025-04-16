@@ -1,0 +1,6 @@
+[submodule "SemaforoMutex"]
+	path = SemaforoMutex
+	url = https://github.com/viniciushbc/Semaforo-MUTEX-FreeRTOS.git
+[submodule "SemaforoBinario"]
+	path = SemaforoBinario
+	url = https://github.com/viniciushbc/Semaforo-Binario-FreeRTOS.git
